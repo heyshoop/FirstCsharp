@@ -1,0 +1,17 @@
+﻿<skills>
+  <skill>
+    <id>1</id>
+    <name lang="cn">天下无双</name>
+    <damage>123</damage>
+  </skill>
+  <skill>
+    <id>2</id>
+    <name lang="cn">呵呵哒</name>
+    <damage>111</damage>
+  </skill>
+  <skill>
+    <id>3</id>
+    <name lang="en">hello</name>
+    <damage>333</damage>
+  </skill>
+</skills>
